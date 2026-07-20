@@ -1,4 +1,4 @@
-# ₿ BTC-USD Directional Prediction & Backtesting
+# $ BTC-USD Directional Prediction & Backtesting
 
 Predicting short-horizon direction of Bitcoin (up/down over the next 4 hours) using classic ML classifiers, and evaluating whether the signal translates into a profitable trading strategy after transaction costs.
 
