@@ -158,4 +158,4 @@ This project is for **educational purposes only**. Nothing here constitutes fina
 
 ## 👤 Author
 
-**Your Name** — [LinkedIn](#) · [GitHub](#)
+**CHAYMAE HANINI** — [LinkedIn](#) · [GitHub](#)
