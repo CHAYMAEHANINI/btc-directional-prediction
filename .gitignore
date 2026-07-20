@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+env/
+
+# Data (large / regenerable — see README for download instructions)
+data/raw/*.csv
+data/processed/*.csv
+
+# Large model artifacts (regenerate via notebooks, or use Git LFS)
+models/random_forest.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
