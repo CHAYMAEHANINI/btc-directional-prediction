@@ -124,25 +124,6 @@ Computed with the [`ta`](https://pypi.org/project/ta/) technical analysis librar
 - Hyperparameter tuning (Optuna/GridSearchCV) with purged time-series cross-validation
 - Ensemble / stacking of the three models
 
-## 🛠️ How to Reproduce
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/<your-username>/btc_prediction_RF.git
-cd btc_prediction_RF
-
-# 2. Create a virtual environment
-python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the notebooks in order
-jupyter notebook
-# 01_data_preparation.ipynb → 02_feature_engineering.ipynb
-# → 03_model_training.ipynb → 04_backtesting.ipynb
-```
 
 ## 🧰 Tech Stack
 
@@ -158,4 +139,4 @@ This project is for **educational purposes only**. Nothing here constitutes fina
 
 ## 👤 Author
 
-**CHAYMAE HANINI** — [LinkedIn](#) · [GitHub](#)
+**CHAYMAE HANINI** — [LinkedIn](https://www.linkedin.com/in/chaymae-hanini/) · [GitHub](https://github.com/CHAYMAEHANINI)
